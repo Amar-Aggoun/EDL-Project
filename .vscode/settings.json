@@ -1,0 +1,27 @@
+{
+    "cSpell.language": "fr-FR,fr,en-US",
+    "files.exclude": {
+        "**/*.fls": true,
+        "**/*.aux": true,
+        "**/*.fdb*": true,
+        "**/*.log": true,
+        "**/*.lof": true,
+        "**/*.lot": true,
+        "**/*.out": true,
+        "**/*.toc": true,
+        "**/*.synctex.gz": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "cSpell.words": [
+        "Mehri",
+        "NTIC",
+        "Odoo",
+        "SITW",
+        "STIC"
+    ]
+}

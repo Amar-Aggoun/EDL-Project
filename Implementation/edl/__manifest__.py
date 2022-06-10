@@ -4,7 +4,7 @@
     'version': '1.0.0',
     'category': 'Education',
     'author': 'M1GL Dev team',
-    'summary': 'Transfer requests form',
+    'summary': 'Form for students to submit their transfer requests',
     'description': """Form for students to submit their transfer requests""",
     'sequence': -100,
     'depends': [],

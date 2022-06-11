@@ -1,7 +1,7 @@
 from odoo import api, models, fields
 
-class Accounts(models.Model):
-    _name = "transfer.account"
+class CandidatAccounts(models.Model):
+    _name = "candidat.accounts"
     _description = "transfer accounts"
 
     email = fields.Char(String = "Email")

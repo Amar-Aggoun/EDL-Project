@@ -1,5 +1,5 @@
 from odoo import api, models, fields
 
-class TransferAccounts(models.Model):
-    _name = "Candidat.Account"
-    _description = "Candidat Accounts"
+class CandidatAccounts(models.Model):
+    _name = "candidat.account"
+    _description = "candidat accounts"

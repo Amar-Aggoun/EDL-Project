@@ -8,7 +8,9 @@
     'description': """Form for students to submit their transfer requests""",
     'sequence': -100,
     'depends': [],
-    'data': [],
+    'data': [
+        "views/menu.xml"
+    ],
     'demo': [],
     'application': True,
     'installable': True,

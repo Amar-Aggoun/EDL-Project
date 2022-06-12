@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_edl_root"
+            name="EDL"
+              sequence="0"/>
+
+    <menuitem id="menu_database_interface"
+            name="Database"
+            parent ="menu_edl_root"
+            sequence="0"/>
+
+    <menuitem id="menu_agent_interface"
+            name="Agent"
+            parent ="menu_database_interface"
+            sequence="0"/>
+
+    <menuitem id="menu_admin_interface"
+            name="Admin"
+            parent ="menu_database_interface"
+            sequence="1"/>
+</odoo>
